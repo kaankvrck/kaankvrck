@@ -41,7 +41,6 @@ Here are some ideas to get you started:
   <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="kaankvrck's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=kaankvrck&show_icons=true&hide_border=true" />
-
 </details>
 
 [website]: https://www.kaankvrck.com
@@ -49,5 +48,4 @@ Here are some ideas to get you started:
 [instagram]: https://instagram.com/kaankvrck
 [linkedin]: https://linkedin.com/in/kaankvrck
 [empty]: https://instagram.com/kaankvrck
-
 
