@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything
 - 📫 How to reach me: kaankvrck@gmail.com
 - 😄 Pronouns: Electric Eletronic Engineer
-- ⚡ Fun fact: I love piano,fitness
+- ⚡ Fun fact: I love piano
 - About Me: I'm an engineering student.But because of my interest in software, I have been working on python and java for a long time.I am currently working on Data science and Deep learning. I want to switch to Artificial Intelligence when I specialize
 
 ### Spotify Playing 🎧
