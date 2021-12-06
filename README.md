@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Project Aquarius
-- 🌱 I’m currently learning Javascript,Python,Swift
+- 🌱 I’m currently learning Javascript,Python,Swift,React Native
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with anything
 - 💬 Ask me about anything
