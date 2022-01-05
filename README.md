@@ -1,47 +1,63 @@
-### Hi! Welcome to my Github Profile 👋
+<h1 align="center"> Hi! Welcome to my Github Profile <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<h3 align="center">I'm Kaan, I am Electrical and Electronics Engineer Student and Junior Developer</h3>
 
-
+## 🙋‍♂️ About Me
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Project Aquarius
-- 🌱 I’m currently learning Javascript,Python,Swift,React Native
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with anything
-- 💬 Ask me about anything
+- 🔭 I’m currently working on Project Aquarius.
+- 🌱 I’m currently learning Javascript,Python,React Native.
+- 👯 I want to work as in a mobile application development company.
+- 🤔 I’m looking for help with React Native.
 - 📫 How to reach me: kaankvrck@gmail.com
-- 😄 Pronouns: Electric Eletronic Engineer
-- ⚡ Fun fact: I love piano
-- About Me: I'm an engineering student.But because of my interest in software, I have been working on python and java for a long time.I am currently working on Data science and Deep learning. I want to switch to Artificial Intelligence when I specialize
+- 😄 Pronouns: Electric Eletronic Engineer, Junior Developer.
+- ⚡ Fun fact: I would like to playing piano and playing games.
+- About Me: I'm an engineering student.But because of my interest in software, I have been working on python and java for a long time.I am currently working on React Native and Javascript. I want to create my own mobile application when I specialize.
 
-### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="kaankvrck Spotify Playing" width="350" />](https://open.spotify.com/user/kaankvrck)
+## 🚀 Languages and Tools:
+
+<p align="left"> 
+    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
+    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
+    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+</p>
+
+## 📊 My Github Stats
+
+  <br/>
+    <a href="https://github.com/kaankvrck/github-readme-stats"><img alt="Kaan KIVIRCIK's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kaankvrck&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/kaankvrck/github-readme-stats"><img alt="Kaan KIVIRCIK's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaankvrck&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
+<br/>
+<br/>
+
+<a href="https://github.com/kaankvrck/github-readme-activity-graph"><img alt="Kaan KIVIRCIK's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kaankvrck&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
+
 
 ### Connect with me:
-
-[<img align="left" alt="www.kaankvrck.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="kaankvrck | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="kaankvrck | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="kaankvrck | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
-### Languages and Tools:
-
-[<img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
-[<img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
-[<img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
-[<img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
-[<img alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
-[<img alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]
-[<img alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
-[<img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
-[<img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
-
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="kaankvrck's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=kaankvrck&show_icons=true&hide_border=true" />
-</details>
+<p align="left">
+  
+[<img alt="www.kaankvrck.com" width="50px" src="https://img.icons8.com/color/48/000000/domain--v1.png" />][website]
+[<img alt="kaankvrck | Twitter" width="50px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
+[<img alt="kaankvrck | LinkedIn" width="50px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />][linkedin]
+[<img alt="kaankvrck | Instagram" width="50px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
+  
+</p>
 
 [website]: https://www.kaankvrck.com
 [twitter]: https://twitter.com/kaankvrck
@@ -49,3 +65,8 @@ Here are some ideas to get you started:
 [linkedin]: https://linkedin.com/in/kaankvrck
 [empty]: https://instagram.com/kaankvrck
 
+### Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=kaankvrck">
+</a>
+<a href="https://github.com/kaankvrck?tab=followers"><img src="https://img.shields.io/github/followers/kaankvrck?label=Followers&style=social" alt="GitHub Badge"></a>
