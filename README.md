@@ -5,10 +5,10 @@
 ## 🙋‍♂️ About Me
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Project Aquarius.
+- 🔭 I’m currently working on Libal Makina.
 - 🌱 I’m currently learning Javascript,Python,React Native.
 - 👯 I want to work as in a mobile application development company.
-- 🤔 I’m looking for help with React Native.
+- 🤔 I’m looking for help with NodeJS.
 - 📫 How to reach me: kaankvrck@gmail.com
 - 😄 Pronouns: Electric Eletronic Engineer, Junior Developer.
 - ⚡ Fun fact: I would like to playing piano and playing games.
