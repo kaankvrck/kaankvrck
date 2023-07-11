@@ -1,18 +1,17 @@
 <h1 align="center"> Hi! Welcome to my Github Profile <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-<h3 align="center">I'm Kaan, I am Electrical and Electronics Engineer Student and Junior Developer</h3>
+<h3 align="center">I'm Kaan, I am Electrical and Electronics Engineer - Software Specialist</h3>
 
 ## 🙋‍♂️ About Me
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Libal Makina.
-- 🌱 I’m currently learning Javascript,Python,React Native.
+- 🔭 I’m currently working on Norm Digital.
+- 🌱 I’m currently learning Javascript, Python, React Native, C#, Typescript.
 - 👯 I want to work as in a mobile application development company.
-- 🤔 I’m looking for help with NodeJS.
 - 📫 How to reach me: kaankvrck@gmail.com
-- 😄 Pronouns: Electric Eletronic Engineer, Junior Developer.
+- 😄 Pronouns: Electric Eletronic Engineer, Software Specialist.
 - ⚡ Fun fact: I would like to playing piano and playing games.
-- About Me: I'm an engineering student.But because of my interest in software, I have been working on python and java for a long time.I am currently working on React Native and Javascript. I want to create my own mobile application when I specialize.
+- About Me: I'm an Electric Eletronic Engineer.But because of my interest in software, I have been working on python and java for a long time.I am currently working on C#, Typescript and Javascript.
 
 ## 🚀 Languages and Tools:
 
