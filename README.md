@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Norm Digital / Vinter](https://vinter.me)
 - 🌱 I’m currently learning **Python, React Native.**
-- 📝 I regularly write articles on [medium.com/kaankvrck](https://medium.com/@kaankvrck))
+- 📝 I regularly write articles on [medium.com/kaankvrck](https://medium.com/@kaankvrck)
 - 💬 Ask me about **Javascript and NodeJS**
 - 📫 How to reach me **kaankvrck@gmail.com**
 - ⚡ Fun fact **I would like to playing piano and playing games.**
