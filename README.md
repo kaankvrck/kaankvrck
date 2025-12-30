@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kaan KIVIRCIK</h1>
-<h3 align="center">I am Computer Engineer (MSc) & Electrical and Electronics Engineer (BSc)</h3>
+<h3 align="center">I am Computer Engineer PhD(c) & Electrical and Electronics Engineer (BSc)</h3>
 
-- 🔭 I’m currently working on [Norm Digital / Vinter](https://vinter.me)
+- 🔭 I’m currently working on [AI Tech Builders](https://aitechbuilders.com)
 - 🌱 I’m currently learning **Python, React Native.**
 - 📝 I regularly write articles on [medium.com/kaankvrck](https://medium.com/@kaankvrck)
 - 💬 Ask me about **Typescript and NodeJS**
